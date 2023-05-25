@@ -1,1 +1,1 @@
-# ruchi-portfolio
+# minimalist-portfolio
